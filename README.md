@@ -1,9 +1,9 @@
 # Javascript & React Study
 
 ## Member
-@lucy-pill
-@uuuuooii
-@SeoNaRu
+@lucy-pill  
+@uuuuooii  
+@SeoNaRu  
 
 ## Notion
 - url: https://www.notion.so/f13cd739dd4349568f5bc8caa8a0ba5e?v=cd6946a1babb4d6dba816f90ced5ea3a
